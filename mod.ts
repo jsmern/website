@@ -1,5 +1,5 @@
 // mod.ts
-import { serve, ServerRequest } from 'https://deno.land/std/http/server.ts';
+import { serve, ServerRequest } from 'https://api.deno.land/webhook/gh/website';
 
 export async function startServer(port: number): Promise<void> {
   const server = serve({ port });
