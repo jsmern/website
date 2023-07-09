@@ -1,0 +1,9 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "A collection of math utility functions for Deno.",
+  "dependencies": {},
+  "homepage": "https://github.com/jsmern/website",
+  "repository": "https://github.com/jsmern/website",
+  "importmap": "https://deno.land/x/website/mod.ts"
+}
